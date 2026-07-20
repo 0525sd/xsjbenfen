@@ -1,1 +1,1 @@
-[]
+[{"status":"expired","createdAt":1784351085047,"userId":"uid_1782055845928_hyeor3ki7","characterId":"07e92474-9910-42a2-8ac0-9781b1e24328","triggerAt":1784358285032,"kind":"activity","hint":"拼装机械模型","confidence":0.95,"_id":1,"updatedAt":1784384935528},{"status":"sent","createdAt":1784449190706,"userId":"uid_1782055845928_hyeor3ki7","characterId":"07e92474-9910-42a2-8ac0-9781b1e24328","triggerAt":1784450990695,"kind":"activity","hint":"公司邮件处理","confidence":0.95,"_id":2,"sentAt":1784452071613,"updatedAt":1784452071613}]
