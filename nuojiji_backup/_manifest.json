@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1784823876082,
+  "timestamp": 1784823882991,
   "appVersion": "6.9.25 (2026.07.13)",
   "tables": [
     "characters",
@@ -74,7 +74,7 @@
   ],
   "chunkedTables": {
     "stickers": 7,
-    "messages": 103
+    "messages": 104
   },
   "completedTables": {
     "characters": true,
@@ -83,7 +83,8 @@
     "users": true,
     "userState": true,
     "userPosts": true,
-    "chatSettings": true
+    "chatSettings": true,
+    "favorites": true
   },
   "inProgress": true
 }
