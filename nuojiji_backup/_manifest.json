@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1784994467529,
+  "timestamp": 1784994474803,
   "appVersion": "6.9.25 (2026.07.13)",
   "tables": [
     "characters",
@@ -75,7 +75,8 @@
   "chunkedTables": {
     "stickers": 7,
     "messages": 129,
-    "ttsAudio": 2
+    "ttsAudio": 2,
+    "imageStore": 1
   },
   "completedTables": {
     "characters": true,
@@ -107,7 +108,8 @@
     "calendarData": true,
     "groupChats": true,
     "xinsheng": true,
-    "pomodoroSessions": true
+    "pomodoroSessions": true,
+    "couplesData": true
   },
   "inProgress": true
 }
